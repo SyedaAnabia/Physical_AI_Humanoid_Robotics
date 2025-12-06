@@ -1,22 +1,26 @@
----
-title: "فزیکل اے آئی اور ہیومینائیڈ روبوٹکس درسی کتاب"
-description: "ڈوکی سورس پر مبنی نصاب جو فزیکل اے آئی، ROS 2، سمیولیشن، VLA سسٹمز اور ہیومینائیڈ روبوٹکس پر مبنی ہے"
----
+Title: Physical AI & Humanoid Robotics Textbook
+Description: A Docusaurus-based curriculum covering Physical AI, ROS 2, simulation, VLA systems, and humanoid robotics.
 
-# فزیکل اے آئی اور ہیومینائیڈ روبوٹکس درسی کتاب
+Physical AI & Humanoid Robotics Textbook
 
-خوش آمدید!  
-*فزیکل اے آئی اور ہیومینائیڈ روبوٹکس* کی اس درسی کتاب میں — جو ایک پراجیکٹ بیسڈ، عملی کورس ہے جو آپ کو یہ سکھاتا ہے کہ جدید اے آئی تکنیکوں کی مدد سے ہیومینائیڈ روبوٹس کو کیسے ڈیزائن، سمیولیٹ اور کنٹرول کیا جاتا ہے۔
+Welcome!
+Yeh Physical AI aur Humanoid Robotics ki textbook aik project-based, hands-on course hai jo aapko yeh sikhati hai ke modern AI techniques ka istemaal karte hue humanoid robots ko kaise design, simulate aur control kiya jata hai.
 
-اس درسی کتاب میں شامل ہے:
+Is textbook mein shamil hai:
 
-- ROS 2 (روبوٹک نروس سسٹم)
-- گی زیبو اور یونٹی کے ساتھ سمیولیشن (ڈیجیٹل ٹوئنز)
-- NVIDIA Isaac Sim اور Isaac ROS
-- ویژن۔لینگویج۔ایکشن (VLA) سسٹمز
-- ہارڈویئر اور ایج اے آئی (جیٹسن کٹس، ریئل سینس کیمرہ)
-- ہیومینائیڈ ڈیزائن، کائنی میٹکس، موومنٹ، اور مینিপولیشن
-- ہینڈز آن پراجیکٹس اور کیپ سٹون: خود مختار ہیومینائیڈ روبوٹ
+ROS 2 (Robotic Nervous System)
 
-بائیں جانب موجود سائیڈ بار کا استعمال کرتے ہوئے ماڈیولز کے درمیان نیویگیٹ کریں۔  
-ہر ماڈیول میں تھیوری، کانسیپچول ڈایاگرامز، ڈیزائن پیٹرنز، اور لیبز و ڈیمو کے لیے نو-کوڈ، تشریحی اور قدم بہ قدم رہنمائی شامل ہے۔
+Gazebo aur Unity ke sath Simulation (Digital Twins)
+
+NVIDIA Isaac Sim aur Isaac ROS
+
+Vision-Language-Action (VLA) systems
+
+Hardware & Edge AI (Jetson kits, RealSense cameras)
+
+Humanoid design, kinematics, movement, aur manipulation
+
+Hands-on projects aur aik Capstone: Autonomous Humanoid Robot
+
+Bai taraf mojood sidebar ka istemaal kar ke modules ke darmiyan navigate karein.
+Har module mein theory, conceptual diagrams, design patterns, aur step-by-step guidance shamil hai labs, demos, aur no-code explorations ke liye.
